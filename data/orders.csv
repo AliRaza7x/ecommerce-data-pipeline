@@ -1,0 +1,26 @@
+order_id,customer_id,customer_name,city,product,category,quantity,unit_price,order_date
+1,101,Ali,Karachi,Laptop,Electronics,1,150000,2026-01-15
+2,102,Hassan,Lahore,Mouse,Electronics,2,2500,2026-01-16
+3,103,Ahmed,Islamabad,Office Chair,Furniture,1,25000,2026-01-18
+4,104,Usman,Karachi,Keyboard,Electronics,1,5000,2026-01-20
+5,105,Bilal,Lahore,Desk,Furniture,1,30000,2026-02-02
+6,106,Hamza,Islamabad,Monitor,Electronics,2,45000,2026-02-05
+7,107,Saad,Karachi,Headphones,Electronics,3,7000,2026-02-11
+8,108,Zain,Lahore,Bookshelf,Furniture,1,18000,2026-02-15
+9,109,Omar,Karachi,Webcam,Electronics,2,12000,2026-03-01
+10,110,Fahad,Islamabad,Desk Lamp,Furniture,4,3500,2026-03-05
+11,101,Ali,Karachi,USB Hub,Electronics,2,3000,2026-03-12
+12,102,Hassan,Lahore,Office Chair,Furniture,2,25000,2026-03-18
+13,111,Ayan,Karachi,Laptop Stand,Furniture,1,6500,2026-04-02
+14,112,Danish,Lahore,Keyboard,Electronics,2,5000,2026-04-10
+15,113,Rayan,Islamabad,Monitor,Electronics,1,45000,2026-04-20
+16,114,Talha,Karachi,Desk,Furniture,1,30000,2026-05-03
+17,115,Waleed,Lahore,Mouse,Electronics,5,2500,2026-05-11
+18,116,Shahzaib,Islamabad,Headphones,Electronics,2,7000,2026-05-19
+19,107,Saad,Karachi,Webcam,Electronics,1,12000,2026-06-04
+20,108,Zain,Lahore,Bookshelf,Furniture,2,18000,2026-06-15
+21,109,Omar,Karachi,Laptop,Electronics,1,150000,2026-06-22
+22,110,Fahad,Islamabad,Desk Lamp,Furniture,3,3500,2026-07-01
+23,111,Ayan,Karachi,Keyboard,Electronics,1,5000,2026-07-09
+24,112,Danish,Lahore,Office Chair,Furniture,1,25000,2026-07-15
+25,113,Rayan,Islamabad,Mouse,Electronics,2,2500,2026-08-01
